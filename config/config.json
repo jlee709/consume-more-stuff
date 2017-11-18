@@ -12,9 +12,9 @@
     "dialect": "postgres"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
+    "username": "cms",
+    "password": "TheManOfSteel709Q!!",
+    "database": "cms_production",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
